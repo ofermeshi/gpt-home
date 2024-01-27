@@ -74,7 +74,6 @@ def process_gpt(text):
   messages.append(
       {"role": "user", "content": message},
   )
-  print(f"history length: {len(messages)}")
   chat = openai.chat.completions.create(
       model=openai_model,
       messages=messages[-MAX_MESSAGES:],
