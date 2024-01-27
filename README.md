@@ -2,7 +2,7 @@
 In this project I explain how to set up GPT with a voice interface on a raspberry Pi. It uses PicoVoice's wake-word recognition, Google's speech-to-text and text-to-speech, and OpenAI's GPT. I am using here the latest GPT-4 model, which requires an account with OpenAI. The current price is $0.01/1K input tokens, and $0.03/1K output tokens.
 
 ## Requirements
-* Raspberry Pi
+* Raspberry Pi (I used Model 4B)
 * USB microphone
 * Speaker (with 3.5mm jack connector)
 
