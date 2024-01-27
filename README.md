@@ -37,6 +37,6 @@ If you want GPT to run automatically every time the Raspberry Pi reboots, then a
 `python /path/to/gpt_home.py`
 
 ## Done
-If you encounter any issues and manage to resolve them, please post a comment so others can use it.
+If you encounter any issues and manage to resolve them, please post a comment so it can help others.
 
 Enjoy!
