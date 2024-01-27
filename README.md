@@ -23,7 +23,7 @@ Install speech packages:
 
 Install other packages:
 
-`python -m pip install openai beepy`
+`python -m pip install openai beepy wave`
 
 ## Step 3
 Set up an OpenAI account and API key at [https://openai.com](https://openai.com)
