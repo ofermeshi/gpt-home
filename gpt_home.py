@@ -54,9 +54,7 @@ def decode(audio):
   return 0
 
 # GPT
-PROMPT = "Respond in the style of an intelligent and helpful assistant. "
-         "Keep your response short and phrase the response as if spoken "
-         "from a first person perspective."
+PROMPT = "Respond in the style of an intelligent and helpful assistant. Keep your response short and phrase the response as if spoken from a first person perspective."
 def init_messages():
   messages = [ {"role": "system",
                 "content": f"{PROMPT}" } ]
