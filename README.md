@@ -40,3 +40,5 @@ If you want GPT to run automatically every time the Raspberry Pi reboots, then a
 If you encounter any issues and manage to resolve them, please post a comment so it can help others.
 
 Enjoy!
+
+<img src="https://github.com/ofermeshi/gpt-home/assets/10656539/8dcd0422-a3a6-476e-8dbb-013d24719451" width=50% height=50%>
