@@ -6,12 +6,12 @@ In this project I explain how to set up GPT with a voice interface on a raspberr
 * USB microphone
 * Speaker (with 3.5mm jack connector)
 
-## Step 1 -- Wake Word Recognition with Picovoice
+## Step 1 - Wake Word Recognition with Picovoice
 Set up a [Picovoice](https://picovoice.ai/docs/quick-start/porcupine-python/) account and access key.
 Create a custom wake-word model, download the generated .ppn file, and put it in the project's directory.
 I used the text "Hey G P T" and it created 'Hey-G-P-T_en_raspberry-pi_v3_0_0.ppn'.
 
-## Step 2 -- Install packages
+## Step 2 - Install packages
 
 Install Picovoice:
 
